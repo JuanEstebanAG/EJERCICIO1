@@ -90,4 +90,4 @@ def main():
             print('S\neleccione una opción válida.')
 
 if __name__ == "__main__":
-    main()
+    main() #RECONOCE EL PROPIO MÓDULO
